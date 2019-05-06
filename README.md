@@ -1,8 +1,8 @@
 ## Bablo Bot
 
 Бот [Bablo Bot](https://t.me/bablomaker_bot) позволяет выполнять задания и получать вознаграждения в качестве долларов на виртуальном счету
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://telegra.ph/file/cbc2f155c0ceb9a2f1ceb.png)
+У бота есть панелья администратора, в которой можно управлять ботом
 
 ### Markdown
 
