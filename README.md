@@ -5,6 +5,8 @@
 Python, Flask, pyTelegramBotApi, etc.
 
 У бота есть панелья администратора, в которой можно управлять ботом
+![Image](https://telegra.ph/file/1964b2b86005cd58bf723.png)
+![Image](https://telegra.ph/file/0d133fc0eaf3e8a9112d7.png)
 
 ### Markdown
 
